@@ -1,15 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="da54f335-6f0d-47a2-b5b9-838d892d4125" name="Changes" comment="" />
+    <list default="true" id="da54f335-6f0d-47a2-b5b9-838d892d4125" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.venv/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Practicum14.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Practicum14.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "dpimshina"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/dpimshina/Practicum14.git",
+    "accountId": "a4275826-8fa3-41d0-aac7-65902636d82e"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -21,7 +52,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.1.executor": "Run",
+    "Python.2.executor": "Run",
+    "Python.3.executor": "Run",
+    "Python.4.executor": "Run",
+    "Python.5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
